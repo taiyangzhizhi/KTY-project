@@ -48,7 +48,221 @@ html {
     position: relative;
     width: 100%;
     height: 100%;
+    font-size: 14px;
+}
+.logo {
+    width: 100%;
+    height: 82px;
+    line-height: 82px;
+    background-color: #fff;
+}
+.logo img {
+    width: 249px;
+}
+.banner {
+    width: 100%;
+    height: 100%;
+}
+.fixedNav {
+    position: fixed;
+    bottom: 60px;
+    width: 40px;
+    height: 40px;
+    z-index: 80;
+    opacity: 1;
+}
+#fixed-Nav .nav-btn {
+    box-shadow: -1px 1px 0 #3cb5d5,
+    -1px -1px 0 #3cb5d5,
+    1px 1px 0 #3cb5d5,
+    1px -1px 0 #3cb5d5;
+}
+.nav-btn {
+    display: block;
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    z-index: 5;
+    background: #fff;
+    box-shadow: -1px 1px 0 #2090ff,
+    -1px -1px 0 #2090ff,
+    1px 1px 0 #2090ff,
+    1px -1px 0 #2090ff;
+}
+#fixed-Nav .nav-btn i {
+    background: #3cb5d5;
+}
+.nav-btn i.i-1 {
+    top: 8px;
+}
+.nav-btn i.i-2 {
+    top: 15px;
+}
+.nav-btn i.i-3 {
+    top: 22px;
+}
+.nav-btn i {
+    width: 22px;
+    left: 5px;
+    background: #2090ff;
+}
+.nav-btn b{
+    display: none;
+}
+.nav-btn i,
+.nav-btn b {
+    display: block;
+    position: absolute;
+    height: 2px;
+    line-height: 0;
     overflow: hidden;
-    background-color: #f6f8f9;
+}
+.navb {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 98;
+    background-color: rgba(0,0,0,0.5);
+}
+#nav-box {
+    background-color: transparent;
+}
+.nav[state='open'] {
+    right: 0;
+}
+.nav {
+    background-color: #666;
+    box-shadow: -2px 0 5px #000;
+}
+.nav {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    width: 60%;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1001;
+    padding: 10px 0;
+    transition: all .5s ease-in;
+    background-color: #333436;
+}
+.nav ul {
+    padding-bottom: 35px;
+}
+#nav-box .listSetup {
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+.nav li:first-child {
+    border-top: none;
+}
+.nav ul li {
+    border-width: 0 0 2px;
+    border-style: solid;
+    border-color: #45494c;
+}
+.nav li {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #333;
+}
+.nav li a {
+    display: block;
+    position: relative;
+    font-size: 17px;
+    color: #fff;
+    padding: 5px 160px 5px 0;
+}
+em:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -4px;
+    width: 4px;
+    height: 1px;
+    background-color: #5b5d5e;
+    box-shadow: -1px 1px 0 #5b5d5e,
+    -2px 2px 0 #5b5d5e,
+    -3px 3px 0 #5b5d5e,
+    -4px 4px 0 #5b5d5e,
+    -5px 5px 0 #5b5d5e,
+    -1px -1px 0 #5b5d5e,
+    -2px -2px 0 #5b5d5e,
+    -3px -3px 0 #5b5d5e,
+    -4px -4px 0 #5b5d5e,
+    -5px -5px 0 #5b5d5e;
+    margin-left: 14px;
+}
+#tool-menu-bg {
+    height: 45px;
+}
+.toolMenuBg {
+    display: block;
+    width: 100%;
+    height: 40px;
+}
+#tool-menu {
+    height: 45px;
+    opacity: .62;
+    background-color: #000000;
+}
+.toolMenu {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 42px;
+    z-index: 80;
+    background-color: #1C86F0;
+}
+.toolBut {
+    padding: 0;
     margin: 0;
+    overflow: hidden;
+}
+.q {
+    zoom: 1;
+}
+.toolBut li {
+    position: relative;
+    float: left;
+    width: 20%;
+    text-align: center;
+    overflow: hidden;
+}
+.toolBut li a {
+    display: inline-block;
+    width: auto;
+    text-align: center;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+#tool-menu a .icon {
+    padding-top: 3px;
+}
+.toolMenu .toolBut .icon {
+    position: relative;
+}
+.toolBut .icon {
+    display: block;
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    padding: 3px 0 1px;
+}
+.toolBut .icon img {
+    width: 20px;
+    height: 20px;
+    padding-top: 1px;
+}
+#tool-menu a.cur span {
+    color: #3cb5d5;
+}
+#tool-menu a span {
+    color: #fff;
 }
