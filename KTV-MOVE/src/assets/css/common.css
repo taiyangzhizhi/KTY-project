@@ -50,6 +50,10 @@ html {
     height: 100%;
     font-size: 14px;
 }
+.box {
+    width: 531px;
+    margin: 0 auto;
+}
 .logo {
     width: 100%;
     height: 82px;
@@ -211,6 +215,7 @@ em:after {
     height: 45px;
     opacity: .62;
     background-color: #000000;
+    border: 1px solid #dbdbdb;
 }
 .toolMenu {
     position: fixed;
@@ -264,5 +269,6 @@ em:after {
     color: #3cb5d5;
 }
 #tool-menu a span {
+    font-family: SimSun;
     color: #fff;
 }
