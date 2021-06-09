@@ -192,6 +192,472 @@
                     </li>
                 </ul>
             </div>
+            <div class="NameTxtse">
+                <a href="###">高端KTV新闻</a>
+            </div>
+            <div class="txtModulse">
+                <div class="textse textfontser">
+                    <p>High-end KTV News</p>
+                </div>
+            </div>
+            <div class="autoH" style="overflow: hidden; height: 525px;" @mousemove="autoH">
+                <div class="txtListmodule txtListmodule_1">
+                    <ul>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会优秀模特怎样炼成不要让情绪打败
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘平面模特抓住面试机会
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘男士面试要求怎么和领班相处
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会招聘模特条件改掉这些习惯
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场模特说话技巧如何打动面试官
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘找不到工作原因不同类型面试
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘选择工作注意着重考察求职者
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘如何获得考官好感注重第一印象
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘管理者自身修养在面试什么
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场模特如何走台步招聘好工作标准
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘面试问题如何面对多位考官
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘如何自我介绍要有才艺吗
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘说话禁忌哪些工作机会吃香
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会招聘女模特注重应聘者能力
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘怎么面试好喝完酒后用这些技巧
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场正规职位判断相貌普通可应聘吗
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会招聘应聘概率怎样工作类型
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘高薪模特规范怎么穿衣服好看
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘求职如何打扮形象气质很重要
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                选择模特要掌握技巧客人方面要关注
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场需会说话的女人如何判断职位信息
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘交流很关键模特要具备的品质
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘怎么提高标准坐台时候怎么做
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘要审核才艺工作一般时间多久
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘年龄有没限制遵守规矩很重要
+                            </a>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会优秀模特怎样炼成不要让情绪打败
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘平面模特抓住面试机会
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘男士面试要求怎么和领班相处
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会招聘模特条件改掉这些习惯
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场模特说话技巧如何打动面试官
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘找不到工作原因不同类型面试
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘选择工作注意着重考察求职者
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘如何获得考官好感注重第一印象
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘管理者自身修养在面试什么
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场模特如何走台步招聘好工作标准
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘面试问题如何面对多位考官
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘如何自我介绍要有才艺吗
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘说话禁忌哪些工作机会吃香
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会招聘女模特注重应聘者能力
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘怎么面试好喝完酒后用这些技巧
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场正规职位判断相貌普通可应聘吗
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜总会招聘应聘概率怎样工作类型
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘高薪模特规范怎么穿衣服好看
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘求职如何打扮形象气质很重要
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                选择模特要掌握技巧客人方面要关注
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场需会说话的女人如何判断职位信息
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘交流很关键模特要具备的品质
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘怎么提高标准坐台时候怎么做
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘要审核才艺工作一般时间多久
+                            </a>
+                        </li>
+                        <li class="text_list_bk list_setup">
+                            <span class="listIcon">
+                                &nbsp;
+                                <em></em>
+                            </span>
+                            <a href="###" class="urlfont">
+                                夜场招聘年龄有没限制遵守规矩很重要
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
         <div class="toolMenuBg" id="tool-menu-bg"></div>
         <div class="toolMenu" id="tool-menu">
@@ -212,8 +678,8 @@
                         <span>电话</span>
                     </a>
                 </li>
-                <li style="width:33%;">
-                    <a href="Index.vue">
+                <li style="width:33%;" @click="toolMenu">
+                    <a href="###">
                         <b class="icon">
                             <img src="../assets/img/2053_1513021523931978.png" alt="" width="20" height="20">
                         </b>
@@ -222,8 +688,8 @@
                 </li>
             </ul>
         </div>
-        <div class="navb" style="display:none;"></div>
-        <div class="fixedNav" id="fixed-Nav" style="display:block;top:2px;right:0px;">
+        <div class="navb" style="display:none;" @click="navs"></div>
+        <div class="fixedNav" id="fixed-Nav" style="display:block;top:2px;right:0px;" @click="nav">
             <div class="nav-btn">
                 <i class="i-1"></i>
                 <i class="i-2"></i>
@@ -263,232 +729,58 @@
                 </ul>
             </div>
         </div>
+        <div class="wxServerAlt" style="display: none;" @click="toolMenus">
+            <div class="altMain">
+                <span class="pics">
+                    <img src="../assets/img/20777736_1610086215.png" alt="">
+                </span>
+                <h2>长按识别二维码</h2>
+            </div>
+        </div>
     </div>
 </template>
 
 <style>
 @import "../assets/css/common.css";
 @import "../assets/css/reset.css";
-    .NameTxt {
-        display: block;
-        font-family: SimSun;
-        padding-top: 24px;
-        background-color: #e1e5e8;
-    }
-    .NameTxt a {
-        font-size: 22px;
-        color: #333;
-    }
-    .txtModule {
-        height: 36px;
-        background: url("../assets/img/tmp1538987756_1761174_s.png") no-repeat center bottom;
-        background-color: #e1e5e8;
-    }
-    .text {
-        line-height: 1.75;
-    }
-    .textfont {
-        font-weight: bold;
-        font-family: SimSun;
-        font-size: 16px;
-        color: #989898;
-    }
-    .NameTxts {
-        display: block;
-        font-family: SimSun;
-        padding-top: 24px;
-        background-color: #fff;
-    }
-    .NameTxts a {
-        font-size: 22px;
-        color: #333;
-    }
-    .txtModules {
-        height: 36px;
-        background: url("../assets/img/tmp1538987756_1761174_s.png") no-repeat center bottom;
-        background-color: #fff;
-    }
-    .texts {
-        line-height: 1.75;
-    }
-    .textfontsr {
-        font-weight: bold;
-        font-family: SimSun;
-        font-size: 16px;
-        color: #989898;
-    }
-    .picture {
-        border-right-width: 10px;
-        border-right-style: solid;
-        border-left-width: 10px;
-        border-left-style: solid;
-        padding-top: 20px;
-        border-right-color: #e1e5e8;
-        border-left-color: #e1e5e8;
-        background-color: #e1e5e8;
-    }
-    .picture img {
-        width: 100%;
-        vertical-align: top;
-    }
-    .proAttr {
-        overflow: hidden;
-        border-right-width: 10px;
-        border-right-style: solid;
-        border-left-width: 10px;
-        border-left-style: solid;
-        padding-top: 15px;
-        border-right-color: #e1e5e8;
-        border-left-color: #e1e5e8;
-        background-color: #fff;
-    }
-    .proName {
-        display: block;
-        font-family: 微软雅黑;
-        height: 28px;
-        line-height: 28px;
-        text-overflow: ellipsis;
-        font-size: 16px;
-        overflow: hidden;
-        margin-bottom: 4px;
-    }
-    .proIntro {
-        line-height: 1.5;
-        font-size: 12px;
-        margin-bottom: 5px;
-        word-wrap: break-word;
-    }
-    .textfonts {
-        font-family: 微软雅黑;
-        height: 65px;
-        font-size: 14px;
-        line-height: 24px;
-        color: #585858;
-    }
-    .custom {
-        color: #989898;
-    }
-    .eButObj {
-        display: inline-block;
-        font-family: 微软雅黑;
-        width: 100%;
-        height: 30px;
-        line-height: 30px;
-        color: #fff;
-        background-color: #c00;
-        border-radius: 3px;
-        opacity: 1;
-    }
-    .ficon {
-        display: inline-block;
-        vertical-align: middle;
-        font-size: 20px;
-        color: #fff;
-    }
-    span.ficon {
-        font-family: 'icomoon';
-        speak-as: none;
-        font-style: normal;
-        font-weight: normal;
-        font-variant: normal;
-        text-transform: none;
-        line-height: 1;
-        -webkit-font-smoothing: antialiased;
-    }
-    .icon-mobile:before {
-        content: "\e600";
-    }
-    .butText {
-        font-family: 微软雅黑;
-        font-size: 14px;
-    }
-    .bgSetups {
-        padding-top: 12px;
-    }
-    .bgSetup {
-        background: url("../assets/img/tmp1563767016_1913406_s.jpg") no-repeat center center;
-        background-color: #072c38;
-        margin-top: 5px;
-    }
-    .freeRoom_Mo {
-        position: relative;
-    }
-    .freeMo {
-        position: absolute;
-        left: 2px;
-        top: 225px;
-        z-index: 1;
-    }
-    .freeMo .max_FreeTxt {
-        width: 473px;
-        height: 396px;
-    }
-    .freeMo a {
-        display: block;
-        height: 100%;
-    }
-    .freeMo p {
-        position: absolute;
-        width: 100%;
-        height: 100%;
-        color: #333;
-    }
-    .span_pub {
-        font-family: SimSun;
-        color: #fff;
-    }
-    .freeMo span {
-        display: block;
-        height: 100%;
-        line-height: 1.5;
-        font-size: 25.4px;
-        word-wrap: break-word;
-        text-align: left;
-    }
-    .exhibition_demo {
-        font-family: Arial;
-        margin-left: 5px;
-        margin-right: 5px;
-        margin-top: 10px;
-    }
-    .exhibition_demo ul {
-        display: flex;
-        flex-wrap: wrap;
-        width: 100%;
-        overflow: hidden;
-        box-sizing: border-box;
-    }
-    .exhibition_demo ul li {
-        width: 50%;
-        overflow: hidden;
-    }
-    .list_setup {
-        margin-left: 5px;
-        margin-right: 5px;
-    }
-    .exhibition_demo ul li span.pic img {
-        height: 300px;
-        max-width: 100%;
-        max-height: 100%;
-        vertical-align: middle;
-        object-fit: contain;
-    }
-    .exhibition_demo ul li .pic_text {
-        position: relative;
-    }
-    .textfontse {
-        font-size: 16px;
-        color: #555;
-    }
-    .text_list_bk {
-        height: 38px;
-        line-height: 36px;
-    }
-    .exhibition_demo ul li .pic_text p.text_list_bk {
-        position: relative;
-        display: block;
-        overflow: hidden;
-        word-break: break-word;
-        margin-bottom: 2px;
-    }
 </style>
+
+<script>
+export default {
+    data () {
+        return {
+            num: [],
+            state: ''
+        }
+    },
+    methods: {
+        nav () {
+            var navb = document.querySelector('.navb')
+            this.state = 'open'
+            navb.style.display = 'block'
+        },
+        navs () {
+            var navb = document.querySelector('.navb')
+            this.state = 'close'
+            navb.style.display = 'none'
+        },
+        autoH () {
+            var txtListmodule = document.querySelector('.txtListmodule')
+            var textListBk = document.querySelectorAll('li')
+            for (var i = 0; i < textListBk.length; i++) {
+                txtListmodule.style.marginTop = this.num + 'px'
+                txtListmodule.style.transition = 'all 4s'
+                this.num--
+            }
+        },
+        toolMenu () {
+            var wxServerAlt = document.querySelector('.wxServerAlt')
+            wxServerAlt.style.display = 'block'
+        },
+        toolMenus () {
+            var wxServerAlt = document.querySelector('.wxServerAlt')
+            wxServerAlt.style.display = 'none'
+        }
+    }
+}
+</script>
